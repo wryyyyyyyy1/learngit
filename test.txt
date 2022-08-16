@@ -5,3 +5,4 @@ git version 4
 git version 5
 git version 7
 我在新分支上添加了内容！
+beanch1分支修改了内容
